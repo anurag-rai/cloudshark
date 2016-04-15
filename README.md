@@ -1,4 +1,6 @@
-# Cloudshark - Lightweight Web Application equivalent to Wireshark.
+# Cloudshark 
+
+Lightweight Web Application equivalent to Wireshark.
 
 ## Usage
 
