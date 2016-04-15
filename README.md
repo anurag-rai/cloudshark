@@ -6,7 +6,9 @@ Using the *tshark* and *ELK stack* together to create a web application equivale
 Usage
 -----
 
+```console
 Usage: ./wrapper.sh [pcap-input-file] [protocol]
+```
 
 Dependencies
 ------------
