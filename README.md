@@ -1,11 +1,12 @@
 # Cloudshark 
 
-### Lightweight Web Application equivalent to Wireshark.
+Using the *tshark* and *ELK stack* together to create a web application equivalent of Wireshark.
 
-## Usage
+
+### Usage
 
 Usage: ./wrapper.sh [pcap-input-file] [protocol]
 
-## Requirements
+### Requirements
 
 tshark 
